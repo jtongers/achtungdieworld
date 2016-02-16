@@ -1,0 +1,12 @@
+{
+	"nativescript": {
+		"id": "org.nativescript.achtungdieworld",
+		"tns-android": {
+			"version": "1.5.1"
+		}
+	},
+	"dependencies": {
+		"tns-core-modules": "^1.5.2",
+		"socket.io-client": "^1.4.5"
+	}
+}
